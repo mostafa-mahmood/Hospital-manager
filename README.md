@@ -31,13 +31,6 @@ This Hospital Management System is a C++ command-line interface (CLI) applicatio
 2. Display Nurses
 3. Delete Nurse
 
-## OOP Concepts Demonstrated
-- Classes and Objects
-- Inheritance
-- Encapsulation
-- Polymorphism
-- Static Members
-- STL Containers (Vector)
 
 ## Limitations
 - Data is not persistent and will be lost when the program ends
